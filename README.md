@@ -2,7 +2,7 @@
 
 A financial analysis tool for stocks listed on the Argentine Merval index. Enter company data manually and the calculator computes key financial ratios automatically, organized by category and color-coded for quick interpretation.
 
-**Live demo:** _coming soon_
+**Live demo:** https://merval-calculator.vercel.app/
 
 ---
 
