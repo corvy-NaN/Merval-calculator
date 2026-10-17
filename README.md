@@ -51,6 +51,13 @@ Two layers of user guidance were implemented intentionally:
 - **Tooltips** on each field for users who know what they're doing but need a quick reminder
 - **Info panel** for users unfamiliar with financial statements, explaining what the tool does and how to interpret results
 
+### Phase 2 — Automation (paused)
+Ticker-based data fetching via API. Paused pending a viable 
+free or low-cost API that covers Merval fundamental data 
+(revenue, EBITDA, equity, etc.). IOL covers price data but 
+not financial statements. EODHD covers fundamentals but 
+requires a paid plan (expensive) which is out of scope for 
+this portfolio project.
 ---
 
 ## Roadmap
